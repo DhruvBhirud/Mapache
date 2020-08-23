@@ -1,0 +1,20 @@
+{
+  "name": "AahKadakHai",
+  "short_name": "AKH",
+  "start_url": "/",
+  "theme_color": "#343F44",
+  "background_color": "#343F44",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/akh.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/akh512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
